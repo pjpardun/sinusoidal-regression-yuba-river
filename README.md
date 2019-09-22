@@ -2,7 +2,7 @@
 # Sinusoidal Regression - Yuba River
 
 ## About
-A Jupyter Notebook showcasing Sinusoidal Regression of the daily maximum temperatures of the Yuba River read from the US Geological Survey (USGS) National Water Information System (NWIS) Web Interface (https://waterdata.usgs.gov/nwis/inventory/?site_no=11417500):
+A Python Jupyter Notebook showcasing Sinusoidal Regression of the daily maximum temperatures of the Yuba River read from the US Geological Survey (USGS) National Water Information System (NWIS) Web Interface (https://waterdata.usgs.gov/nwis/inventory/?site_no=11417500):
 ![USGS NWIS WI Link image.](https://github.com/pjpardun/sinusoidal-regression-yuba-river/blob/master/images/usgs-nwis-wi.jpg) 
 
 It produces visualization of datapoints and regressions, coefficient of determination statistic, and minimum and maximum dates and temperatures during a forecasted period.
